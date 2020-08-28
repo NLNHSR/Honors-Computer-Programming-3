@@ -1,0 +1,7 @@
+﻿  prjSnackBar.cpp
+D:\CP\HCP3\Projects\SnackBar\prjSnackBar\prjSnackBar.cpp(88,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\CP\HCP3\Projects\SnackBar\prjSnackBar\prjSnackBar.cpp(88,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\CP\HCP3\Projects\SnackBar\prjSnackBar\prjSnackBar.cpp(88,88): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\CP\HCP3\Projects\SnackBar\prjSnackBar\prjSnackBar.cpp(88,110): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\CP\HCP3\Projects\SnackBar\prjSnackBar\prjSnackBar.cpp(88,132): warning C4305: 'initializing': truncation from 'double' to 'float'
+  prjSnackBar.vcxproj -> D:\CP\HCP3\Projects\SnackBar\prjSnackBar\Debug\prjSnackBar.exe
