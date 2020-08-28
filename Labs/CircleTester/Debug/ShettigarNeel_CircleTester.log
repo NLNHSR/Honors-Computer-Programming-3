@@ -1,0 +1,3 @@
+﻿  ShettigarNeel_CircleTester.cpp
+C:\Users\Neel Shettigar\Downloads\CP\ShettigarNeel_CircleTester\circle.h(4,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ShettigarNeel_CircleTester.vcxproj -> C:\Users\Neel Shettigar\Downloads\CP\ShettigarNeel_CircleTester\Debug\ShettigarNeel_CircleTester.exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShettigarNeel_DeckTester", "ShettigarNeel_DeckTester.vcxproj", "{9149B3E0-6B31-474E-8E8A-87D2ACB4D3FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9149B3E0-6B31-474E-8E8A-87D2ACB4D3FC}.Debug|x64.ActiveCfg = Debug|x64
+		{9149B3E0-6B31-474E-8E8A-87D2ACB4D3FC}.Debug|x64.Build.0 = Debug|x64
+		{9149B3E0-6B31-474E-8E8A-87D2ACB4D3FC}.Debug|x86.ActiveCfg = Debug|Win32
+		{9149B3E0-6B31-474E-8E8A-87D2ACB4D3FC}.Debug|x86.Build.0 = Debug|Win32
+		{9149B3E0-6B31-474E-8E8A-87D2ACB4D3FC}.Release|x64.ActiveCfg = Release|x64
+		{9149B3E0-6B31-474E-8E8A-87D2ACB4D3FC}.Release|x64.Build.0 = Release|x64
+		{9149B3E0-6B31-474E-8E8A-87D2ACB4D3FC}.Release|x86.ActiveCfg = Release|Win32
+		{9149B3E0-6B31-474E-8E8A-87D2ACB4D3FC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C6B56CC-47A3-43FE-95A8-7A1597E4A9E0}
+	EndGlobalSection
+EndGlobal
