@@ -1,0 +1,5 @@
+﻿  prj5.1-5.9.cpp
+D:\CP\HCP3\Projects\BP5.1-5.9\prj5.1-5.9\prj5.1-5.9.cpp(63,17): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\CP\HCP3\Projects\BP5.1-5.9\prj5.1-5.9\prj5.1-5.9.cpp(71,22): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\CP\HCP3\Projects\BP5.1-5.9\prj5.1-5.9\prj5.1-5.9.cpp(91,14): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+  prj5.1-5.9.vcxproj -> D:\CP\HCP3\Projects\BP5.1-5.9\prj5.1-5.9\Debug\prj5.1-5.9.exe

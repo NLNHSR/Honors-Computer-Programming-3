@@ -1,0 +1,5 @@
+﻿  prjBP4.1.cpp
+D:\CP\HCP3\Projects\BP4.1\prjBP4.1\prjBP4.1.cpp(25,11): warning C4305:  '=': truncation from 'double' to 'float'
+D:\CP\HCP3\Projects\BP4.1\prjBP4.1\prjBP4.1.cpp(27,27): warning C4305:  'initializing': truncation from 'double' to 'float'
+D:\CP\HCP3\Projects\BP4.1\prjBP4.1\prjBP4.1.cpp(29,38): warning C4305:  'initializing': truncation from 'double' to 'float'
+  prjBP4.1.vcxproj -> D:\CP\HCP3\Projects\BP4.1\prjBP4.1\Debug\prjBP4.1.exe
