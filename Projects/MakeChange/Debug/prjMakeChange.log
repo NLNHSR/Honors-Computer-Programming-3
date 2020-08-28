@@ -1,0 +1,9 @@
+﻿  prjMakeChange.cpp
+D:\CP\HCP3\Projects\MakeChange\prjMakeChange\prjMakeChange.cpp(76,24): warning C4305:  'initializing': truncation from 'double' to 'float'
+D:\CP\HCP3\Projects\MakeChange\prjMakeChange\prjMakeChange.cpp(126,20): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\CP\HCP3\Projects\MakeChange\prjMakeChange\prjMakeChange.cpp(130,20): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\CP\HCP3\Projects\MakeChange\prjMakeChange\prjMakeChange.cpp(134,20): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\CP\HCP3\Projects\MakeChange\prjMakeChange\prjMakeChange.cpp(138,20): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\CP\HCP3\Projects\MakeChange\prjMakeChange\prjMakeChange.cpp(154,11): warning C4129:  '|': unrecognized character escape sequence
+D:\CP\HCP3\Projects\MakeChange\prjMakeChange\prjMakeChange.cpp(156,11): warning C4129:  '_': unrecognized character escape sequence
+  prjMakeChange.vcxproj -> D:\CP\HCP3\Projects\MakeChange\prjMakeChange\Debug\prjMakeChange.exe

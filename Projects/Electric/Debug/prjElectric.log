@@ -1,0 +1,7 @@
+﻿  prjElectric.cpp
+D:\CP\HCP3\Projects\Electric\prjElectric\prjElectric.cpp(31,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CP\HCP3\Projects\Electric\prjElectric\prjElectric.cpp(33,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CP\HCP3\Projects\Electric\prjElectric\prjElectric.cpp(35,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CP\HCP3\Projects\Electric\prjElectric\prjElectric.cpp(39,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\CP\HCP3\Projects\Electric\prjElectric\prjElectric.cpp(89,10): warning C4129: ' ': unrecognized character escape sequence
+  prjElectric.vcxproj -> D:\CP\HCP3\Projects\Electric\prjElectric\Debug\prjElectric.exe
